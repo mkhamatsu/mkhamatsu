@@ -1,4 +1,4 @@
-## Olá! Eu sou a Monique Kimie
+## Olá! Eu sou a Monique Kimie desenvolvedora FullStack!
 
 <div align="center">
   <a href="https://github.com/mkhamatsu">
