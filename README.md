@@ -1,4 +1,4 @@
-## Olá! Eu sou a Monique Kimie desenvolvedora FullStack!
+## Olá! Eu sou a Monique Kimie desenvolvedora BackEnd Java!
 
 <div align="center">
 
